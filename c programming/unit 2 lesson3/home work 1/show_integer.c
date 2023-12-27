@@ -8,7 +8,7 @@ i should see the Console as following:
 Enter a integer: 25
 You entered: 25
 ###########################
- * main2.c
+ * show_integer.c
  *
  *  Created on: 26 Dec 2023
  *      Author: walid
@@ -17,11 +17,11 @@ You entered: 25
 #include<stdio.h>
 void main()
 {
-	int x;
+	int num;
 	printf("please enter an integer");
 	fflush(stdout);fflush(stdin);
-	scanf("%d",&x);
-    printf("\n you entered %d \n",x);
+	scanf("%d",&num);
+    printf("\n you entered %d \n",num);
 
 }
 

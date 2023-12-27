@@ -1,5 +1,5 @@
 /*
- * main2.c
+ * vowel_consonant.c
  *Description : C program to check vowel or consonants
  *  Created on: 26 Dec 2023
  *      Author: walid

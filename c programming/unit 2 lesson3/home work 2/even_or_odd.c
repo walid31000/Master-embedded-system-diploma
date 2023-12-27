@@ -1,5 +1,5 @@
 /*
- * main1.c
+ * even_or_odd.c
  * Description: C program To check Whether number is even or odd
  *  Created on: 26 Dec 2023
  *      Author: walid

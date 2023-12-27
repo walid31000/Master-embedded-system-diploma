@@ -1,5 +1,5 @@
 /*
- * main8.c
+ * calculator.c
  *simple calculator
  *  Created on: 27 Dec 2023
  *      Author: walid
@@ -31,7 +31,8 @@ int main()
 		printf("result=%f",result);
 	}
 	break;
+	default:printf("wrong operator\n");break;
   }
-   default:printf("wrong operator\n");break;
+
 }
 

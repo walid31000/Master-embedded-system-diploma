@@ -1,5 +1,5 @@
 /*
- * main5.c
+ * check_alphabet.c
  *description:program to check whether a character is alphabet or no
  *  Created on: 27 Dec 2023
  *      Author: walid

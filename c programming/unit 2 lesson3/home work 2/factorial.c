@@ -1,5 +1,5 @@
 /*
- * main7.c
+ * factorial.c
  *description:find factorial of a number
  *  Created on: 27 Dec 2023
  *      Author: walid

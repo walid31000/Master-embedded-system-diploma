@@ -1,5 +1,5 @@
 /*
- * main4.c
+ * positive_or_negative.c
  *description:program to find whether a number is positive or negative or zero
  *  Created on: 26 Dec 2023
  *      Author: walid

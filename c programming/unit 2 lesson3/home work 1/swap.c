@@ -1,5 +1,5 @@
 /*
- * main6.c
+ * swap.c
  *EX6:
 
 Write Source Code to Swap Two Numbers
@@ -18,18 +18,19 @@ After swapping, value of b = 1.2
 #include<stdio.h>
 int main()
 {
-	float a,b,temp;
-	printf("enter value of a:");
+	float num1,num2,temp;
+	printf("enter value of num1:");
 	fflush(stdout);
-	scanf("%f",&a);
-	printf("enter value of b:");
+	scanf("%f",&num1);
+	printf("enter value of num2:");
 	fflush(stdout);
-	scanf("%f",&b);
-	temp=a;
-	a=b;
-	b=temp;
-	printf("After swapping, value of a =%f\n",a);
-	printf("After swapping, value of b =%f",b);
+	scanf("%f",&num2);
+	temp=num1;
+	num1=num2;
+	num2=temp;
+	printf("After swapping, value of a =%f\n",num1);
+	printf("After swapping, value of b =%f",num2);
+	return 0;
 }
 
 

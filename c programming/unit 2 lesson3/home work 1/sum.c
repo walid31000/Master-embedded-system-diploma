@@ -11,7 +11,7 @@ Enter two integers: 12
 Sum: 23
 ###########################
 ###########################
- * main3.c
+ * sum.c
  *
  *  Created on: 26 Dec 2023
  *      Author: walid
@@ -19,10 +19,11 @@ Sum: 23
 #include<stdio.h>
 int main()
 {
-	int x,y;
+	int num1,num2;
 	printf("enter 2 integers \n");
 	fflush(stdout);
-	scanf("%d%d",&x,&y);
-    printf ("sum :%d",x+y);
+	scanf("%d%d",&num1,&num2);
+    printf ("sum :%d",num1+num2);
+    return 0;
 }
 

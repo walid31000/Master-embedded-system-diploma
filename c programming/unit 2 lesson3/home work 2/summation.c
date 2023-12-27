@@ -1,5 +1,5 @@
 /*
- * main6.c
+ * summation.c
  *
  *  Created on: 27 Dec 2023
  *      Author: walid

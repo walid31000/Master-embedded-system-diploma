@@ -1,5 +1,5 @@
 /*
- * main5.c
+ * find_ascii.c
  *
 EX5:
 

@@ -1,5 +1,5 @@
 /*
- * main4.c
+ * Multiply.c
  *
 EX4:
 
@@ -18,11 +18,12 @@ Product: 2.640000
 #include<stdio.h>
 int main()
 {
-	float x,y;
+	float num1,num2;
 	printf("enter 2 numbers \n");
 	fflush(stdout);
-	scanf("%f%f",&x,&y);
-    printf ("sum :%f",x+y);
+	scanf("%f%f",&num1,&num2);
+    printf ("product :%f",num1*num2);
+    return 0;
 }
 
 
